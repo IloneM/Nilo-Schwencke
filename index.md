@@ -1,19 +1,12 @@
-# Nueva canción
+# Brève présentation
 
 La "Nueva canción" (nouvelle chanson) fut un mouvement musical d'Amérique latine et d'Espagne qui est apparu plus ou moins en même temps - au milieu des années 1960 - dans plusieurs pays du continent. Il s'agissait d'un chant qui différait de la production populaire antérieure par un engagement social fort nouveau en Amérique latine.
 
-Ce mouvement reconnaît des antécédents tels que Violeta Parra au Chili et Atahualpa Yupanqui en Argentine comme grands promoteurs du mouvement musical dans la région. Parmi les œuvres paradigmatiques de la nouvelle chanson figurent "Pra não dizer que não falei das flores (Caminhando)" (1968), "Canción con todos" (1969), "Cantata Santa María de Iquique" (1970), "El pueblo unido nunca será vencido" (1973), "Plegaria a un labrador" (1969), "Todavia cantamos" (1983), etc.
+Ce mouvement reconnaît des antécédents tels que Violeta Parra au Chili et Atahualpa Yupanqui en Argentine comme grands promoteurs du mouvement musical dans la région. Parmi les œuvres paradigmatiques de la nouvelle chanson figurent "Pra não dizer que não falei das flores (Caminhando)" (1968), "Canción con todos" (1969), "Cantata Santa María de Iquique" (1970), "El pueblo unido jamàs será vencido" (1973), "Plegaria a un labrador" (1969), "Todavia cantamos" (1983), etc.
 
 Parmi ses principaux solistes, dont certains sont encore actifs, on trouve : Amparo Ochoa, Gabino Palomares et Oscar Chávez, au Mexique ; Alí Primera, Gloria Martín, Soledad Bravo et Los Guaraguao au Venezuela ; Facundo Cabral, Jorge Cafrune, Mercedes Sosa, Piero, Víctor Heredia, Cesar Isella en Argentine ; Chico Buarque, Gilberto Gil, Milton Nascimento, Caetano Veloso au Brésil ; Eduardo Meana, Víctor Jara, Ángel Parra, José Larralde Rubén Blades, les frères Carlos Mejía Godoy et Luis Enrique Mejía Godoy au Nicaragua ; Carlos Puebla, Pablo Milanés, Amaury Pérez et Silvio Rodríguez à Cuba ; Alfredo Zitarrosa, Daniel Viglietti, José Carbajal el Sabalero en Uruguay ; Manuel Monestel, Nicomedes Santa Cruz, Armando Tejada Gómez, Geraldo Vandré, Rómulo Castro et autres. L'auteur-compositeur-interprète catalan Joan Manuel Serrat est généralement inclus dans le mouvement en raison de ses liens avec les chansons latino-américaines.
 
 Parmi les groupes les plus importants du mouvement figurent le Quatuor Zupay, Los Guaraguao, Illapu, Inti Illimani, Quilapayún, Los Olimareños, Opus Cuatro, Pedro y Pablo, Quinteto Tiempo, La Federación de Sonido Popular, Pancasán, Dúo Guardabarranco, Igni Tawanka, Savia Nueva, Convite, Kin-Lalat, Yolocamba I Ta, Haciendo Pento En Otro Sonto
-
-Table des matières
-
-1. Origines
-2. Positionnement politique
-3. Références
-4. Liens externes
 
 ## Origines
 
@@ -33,4 +26,17 @@ Avec la chute des dictatures, dans les années 1980, le retour des artistes exil
 
 Bien qu'elle soit clairement liée à une pensée de gauche, ce n'est pas nécessairement une chanson de pamphlétaire. Victor Jara a défini "Notre chanson n'est pas une chanson de protestation. C'est une chanson d'amour." Et pas seulement dans le sens de l'amour de couple. Il a dit dans le sens de l'amour de l'homme avec sa femme, pour ses enfants, pour la vie, pour son foyer. C'est donc une chanson qui a un sens large.
 
+*Source : https://es.wikipedia.org/wiki/Nueva_canci%C3%B3n*
+
+# Florilège de chanson emblémtatiques
+
+## Précurseu·r/se·s
+
+### Violeta Para
+
+#### Gracias a la vida (grâce à la vie)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w67-hlaUSIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Un hommage à la vie qui constitue sa chanson la plus connnue. Elle sera reprise 
+
+
+

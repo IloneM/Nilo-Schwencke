@@ -32,11 +32,16 @@ Bien qu'elle soit clairement liée à une pensée de gauche, ce n'est pas néces
 
 ## Précurseu·r/se·s
 
-### Violeta Para
+### Violeta Para (Chili ; auteure-compositrice-interprète et initiatrice de la nueva cancion chilena)
 
 #### Gracias a la vida (grâce à la vie)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/w67-hlaUSIs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Un hommage à la vie qui constitue sa chanson la plus connnue. Elle sera reprise 
+Percussions, charango, et voix
 
+#### Run run se fue pal norte
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cJ9CeICphL8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+#### Volver a los 17 (Revenir aux 17 ans)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Oe1o13CItv4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Atahualpa Yupanqui (Argentine, Uruguay)
